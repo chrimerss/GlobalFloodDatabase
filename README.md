@@ -1,5 +1,7 @@
 # Global Flood Database
 
+<img src="src/flowchart.png">
+
 |ID|Sources|availabel period|accessible url|
 |--|-------|----------------|--------------|
 |1|Noaa Storm Database| 1950 - |https://www.ncdc.noaa.gov/stormevents/|
