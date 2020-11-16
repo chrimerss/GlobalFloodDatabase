@@ -22,3 +22,4 @@
 |GFD_v0.2.csv|20201104|merged sources (1,2,3,4,and 5); formated date to be the same; headers:'DATE_BEGIN', 'DATE_END', 'DURATION', 'LON', 'LAT', 'COUNTRY', 'STATE','LOCATION', 'AREA', 'FATALITY', 'DAMAGE', 'SEVERITY', 'SOURCE', 'CAUSE', 'SOURCE_DB', 'SOURCE_ID', 'DESCRIPTION'|
 |GFD_v0.21.csv|20201104|merged sources (1,2,3,4,5,and 6); formated date to be the same; headers:'DATE_BEGIN', 'DATE_END', 'DURATION', 'LON', 'LAT', 'COUNTRY', 'STATE', 'LOCATION', 'AREA', 'FATALITY', 'DAMAGE', 'SEVERITY', 'SOURCE', 'CAUSE', 'SOURCE_DB', 'SOURCE_ID', 'DESCRIPTION'|
 |GFD_v0.22|20201107|unify country names and causes (heavy rain; snowmelt; dam break/release; ice jam; storm); filled empty country names from (lon, lat)|
+|GFD_v0.30|20201116|merged sources (1,2,3,4,5,6,7), adapted from v0.22, unified country names and extracted (lon,lat) from description|
