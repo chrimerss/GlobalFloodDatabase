@@ -27,3 +27,4 @@
 |GFD_v0.30|20201116|merged sources (1,2,3,4,5,6,7), adapted from v0.22, unified country names and extracted (lon,lat) from description|
 |GFD_v0.40|20201120|merged GFM based on v0.30|
 |GFD_v0.42|20201123|add descriptors: distance to rivers, contributing area, flood zone, slope, DEM, LULC|
+|GFD_v0.45|20201130|filter out non-numeric values in descriptors: distance to rivers, contributing area, flood zone, slope, DEM, LULC|
